@@ -1,10 +1,13 @@
+## Typora
 
-## Markdown编译器-MacDown 
-![Macdown-logo](http://macdown.uranusjr.com/static/images/logo-160.png)
+![typora-logo.jpeg](https://i.loli.net/2019/04/19/5cb967f8f07d3.jpeg)
 
-GitHub地址：https://github.com/MacDownApp/macdown 
-官网地址：https://macdown.uranusjr.com/ 
+
+
+官网地址：https://www.typora.io
+
 Markdown语法（完整版）：https://www.appinn.com/markdown/#link 
+
 Markdown语法（快速版）：https://www.appinn.com/markdown/basic.html
 
 
